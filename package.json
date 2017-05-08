@@ -1,0 +1,27 @@
+{
+  "name": "koa-examples",
+  "description": "Examples using Koa",
+  "version": "0.0.1",
+  "repository": "https://github.com/TalkingData/flclover-examples.git",
+  "bugs": "https://github.com/TalkingData/flclover-examples/issues",
+  "dependencies": {
+    "flclover": "^0.0.10"
+  },
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "babel-eslint": "^7.2.1",
+    "eslint": "^3.19.0",
+    "eslint-config-airbnb-base": "^11.1.3",
+    "eslint-plugin-import": "^2.2.0",
+    "mocha": "^3.3.0",
+    "should": "^11.2.1",
+    "supertest": "^3.0.0"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "engines": {
+    "node": ">= 7.6.0"
+  },
+  "license": "MIT"
+}
