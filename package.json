@@ -5,7 +5,7 @@
   "repository": "https://github.com/TalkingData/flclover-examples.git",
   "bugs": "https://github.com/TalkingData/flclover-examples/issues",
   "dependencies": {
-    "flclover": "^0.0.11"
+    "flclover": "^0.7.0"
   },
   "devDependencies": {
     "eslint": "^3.19.0",
