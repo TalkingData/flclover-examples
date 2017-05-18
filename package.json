@@ -1,11 +1,11 @@
 {
   "name": "koa-examples",
   "description": "Examples using Koa",
-  "version": "0.0.1",
+  "version": "0.2.0",
   "repository": "https://github.com/TalkingData/flclover-examples.git",
   "bugs": "https://github.com/TalkingData/flclover-examples/issues",
   "dependencies": {
-    "flclover": "^0.7.0"
+    "flclover": "^0.7.4"
   },
   "devDependencies": {
     "eslint": "^3.19.0",
